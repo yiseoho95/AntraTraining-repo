@@ -1,0 +1,13 @@
+C:\Users\Seoho\Desktop\Antra\AntraC#\WeekendWork\obj\Debug\netcoreapp3.1\WeekendWork.csprojAssemblyReference.cache
+C:\Users\Seoho\Desktop\Antra\AntraC#\WeekendWork\obj\Debug\netcoreapp3.1\WeekendWork.AssemblyInfoInputs.cache
+C:\Users\Seoho\Desktop\Antra\AntraC#\WeekendWork\obj\Debug\netcoreapp3.1\WeekendWork.AssemblyInfo.cs
+C:\Users\Seoho\Desktop\Antra\AntraC#\WeekendWork\obj\Debug\netcoreapp3.1\WeekendWork.csproj.CoreCompileInputs.cache
+C:\Users\Seoho\Desktop\Antra\AntraC#\WeekendWork\bin\Debug\netcoreapp3.1\WeekendWork.exe
+C:\Users\Seoho\Desktop\Antra\AntraC#\WeekendWork\bin\Debug\netcoreapp3.1\WeekendWork.deps.json
+C:\Users\Seoho\Desktop\Antra\AntraC#\WeekendWork\bin\Debug\netcoreapp3.1\WeekendWork.runtimeconfig.json
+C:\Users\Seoho\Desktop\Antra\AntraC#\WeekendWork\bin\Debug\netcoreapp3.1\WeekendWork.runtimeconfig.dev.json
+C:\Users\Seoho\Desktop\Antra\AntraC#\WeekendWork\bin\Debug\netcoreapp3.1\WeekendWork.dll
+C:\Users\Seoho\Desktop\Antra\AntraC#\WeekendWork\bin\Debug\netcoreapp3.1\WeekendWork.pdb
+C:\Users\Seoho\Desktop\Antra\AntraC#\WeekendWork\obj\Debug\netcoreapp3.1\WeekendWork.dll
+C:\Users\Seoho\Desktop\Antra\AntraC#\WeekendWork\obj\Debug\netcoreapp3.1\WeekendWork.pdb
+C:\Users\Seoho\Desktop\Antra\AntraC#\WeekendWork\obj\Debug\netcoreapp3.1\WeekendWork.genruntimeconfig.cache
