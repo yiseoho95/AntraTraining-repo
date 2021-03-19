@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Antra.CompanyApp.UI.Console/1.0.0": {
+        "dependencies": {
+          "Antra.CompanyApp.Services": "1.0.0"
+        },
+        "runtime": {
+          "Antra.CompanyApp.UI.Console.dll": {}
+        }
+      },
+      "Antra.CompanyApp.Data.Models/1.0.0": {
+        "runtime": {
+          "Antra.CompanyApp.Data.Models.dll": {}
+        }
+      },
+      "Antra.CompanyApp.Data.Repository/1.0.0": {
+        "dependencies": {
+          "Antra.CompanyApp.Data.Models": "1.0.0"
+        },
+        "runtime": {
+          "Antra.CompanyApp.Data.Repository.dll": {}
+        }
+      },
+      "Antra.CompanyApp.Services/1.0.0": {
+        "dependencies": {
+          "Antra.CompanyApp.Data.Repository": "1.0.0"
+        },
+        "runtime": {
+          "Antra.CompanyApp.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Antra.CompanyApp.UI.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Antra.CompanyApp.Data.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Antra.CompanyApp.Data.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Antra.CompanyApp.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

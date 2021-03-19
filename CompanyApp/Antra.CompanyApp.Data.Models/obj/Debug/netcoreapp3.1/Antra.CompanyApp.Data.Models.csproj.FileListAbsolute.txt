@@ -1,0 +1,9 @@
+C:\Users\Seoho\Desktop\Antra\AntraC#\CompanyApp\Antra.CompanyApp.Data.Models\bin\Debug\netcoreapp3.1\Antra.CompanyApp.Data.Models.deps.json
+C:\Users\Seoho\Desktop\Antra\AntraC#\CompanyApp\Antra.CompanyApp.Data.Models\bin\Debug\netcoreapp3.1\Antra.CompanyApp.Data.Models.dll
+C:\Users\Seoho\Desktop\Antra\AntraC#\CompanyApp\Antra.CompanyApp.Data.Models\bin\Debug\netcoreapp3.1\Antra.CompanyApp.Data.Models.pdb
+C:\Users\Seoho\Desktop\Antra\AntraC#\CompanyApp\Antra.CompanyApp.Data.Models\obj\Debug\netcoreapp3.1\Antra.CompanyApp.Data.Models.AssemblyInfoInputs.cache
+C:\Users\Seoho\Desktop\Antra\AntraC#\CompanyApp\Antra.CompanyApp.Data.Models\obj\Debug\netcoreapp3.1\Antra.CompanyApp.Data.Models.AssemblyInfo.cs
+C:\Users\Seoho\Desktop\Antra\AntraC#\CompanyApp\Antra.CompanyApp.Data.Models\obj\Debug\netcoreapp3.1\Antra.CompanyApp.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\Seoho\Desktop\Antra\AntraC#\CompanyApp\Antra.CompanyApp.Data.Models\obj\Debug\netcoreapp3.1\Antra.CompanyApp.Data.Models.dll
+C:\Users\Seoho\Desktop\Antra\AntraC#\CompanyApp\Antra.CompanyApp.Data.Models\obj\Debug\netcoreapp3.1\Antra.CompanyApp.Data.Models.pdb
+C:\Users\Seoho\Desktop\Antra\AntraC#\CompanyApp\Antra.CompanyApp.Data.Models\obj\Debug\netcoreapp3.1\Antra.CompanyApp.Data.Models.csprojAssemblyReference.cache
