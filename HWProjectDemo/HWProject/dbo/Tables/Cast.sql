@@ -1,0 +1,9 @@
+﻿CREATE TABLE [dbo].[Cast]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY,
+	[Name] NVARCHAR(128) NULL,
+	[Gender] NVARCHAR(MAX) NULL,
+	[TmdbUrl] NVARCHAR(MAX) NULL,
+	[ProfilePath] NVARCHAR(2084) NULL
+
+)

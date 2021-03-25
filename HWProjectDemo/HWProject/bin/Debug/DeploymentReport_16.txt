@@ -1,0 +1,27 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[Role].[ConcurrencyStamp] is being dropped, data loss could occur.
+       The column [dbo].[Role].[NormalizedName] is being dropped, data loss could occur.
+
+** User actions
+     Alter
+       [dbo].[Movie] (Table)
+       [dbo].[Role] (Table)
+     Create
+       [dbo].[Crew] (Table)
+       [dbo].[MovieCrew] (Table)
+       [dbo].[FK_MovieCrew_Movie] (Foreign Key)
+       [dbo].[FK_MovieCrew_Crew] (Foreign Key)
+
+** Supporting actions
+
+The column Title on table [dbo].[Movie] must be changed from NULL to NOT NULL. If the table contains data, the ALTER script may not work. To avoid this issue, you must add values to this column for all rows or mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+The column [dbo].[Role].[ConcurrencyStamp] is being dropped, data loss could occur.
+The column [dbo].[Role].[NormalizedName] is being dropped, data loss could occur.
+

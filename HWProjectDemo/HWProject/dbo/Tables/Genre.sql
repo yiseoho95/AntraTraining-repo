@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Genre]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY,
+	[Name] NVARCHAR(64) NOT NULL,
+
+)

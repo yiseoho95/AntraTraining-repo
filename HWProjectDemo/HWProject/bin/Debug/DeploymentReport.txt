@@ -1,0 +1,36 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Addresses] (Table)
+       [dbo].[Casts] (Table)
+       [dbo].[GenreMovies] (Table)
+       [dbo].[Genres] (Table)
+       [dbo].[KeywordMovies] (Table)
+       [dbo].[Keywords] (Table)
+       [dbo].[MovieCasts] (Table)
+       [dbo].[Movies] (Table)
+       [dbo].[Purchases] (Table)
+       [dbo].[Rentals] (Table)
+       [dbo].[Users] (Table)
+       [dbo].[FK_GenreMovies_Genres] (Foreign Key)
+       [dbo].[FK_GenreMovies_Movies] (Foreign Key)
+       [dbo].[FK_KeywordMovies_Movies] (Foreign Key)
+       [dbo].[FK_KeywordMovies_Keywords] (Foreign Key)
+       [dbo].[FK_MovieCasts_Movies] (Foreign Key)
+       [dbo].[FK_MovieCasts_Casts] (Foreign Key)
+       [dbo].[FK_Purchases_Movies] (Foreign Key)
+       [dbo].[FK_Purchases_Users] (Foreign Key)
+       [dbo].[FK_Rentals_Movies] (Foreign Key)
+       [dbo].[FK_Rentals_Users] (Foreign Key)
+       [dbo].[FK_Users_Addresses] (Foreign Key)
+
+** Supporting actions

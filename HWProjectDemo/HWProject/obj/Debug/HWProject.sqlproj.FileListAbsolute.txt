@@ -1,0 +1,6 @@
+C:\Users\Seoho\Desktop\Antra\HWProjectDemo\HWProject\bin\Debug\HWProject.dacpac
+C:\Users\Seoho\Desktop\Antra\HWProjectDemo\HWProject\bin\Debug\HWProject.dll
+C:\Users\Seoho\Desktop\Antra\HWProjectDemo\HWProject\bin\Debug\HWProject.pdb
+C:\Users\Seoho\Desktop\Antra\HWProjectDemo\HWProject\obj\Debug\HWProject.sqlprojAssemblyReference.cache
+C:\Users\Seoho\Desktop\Antra\HWProjectDemo\HWProject\obj\Debug\HWProject.dll
+C:\Users\Seoho\Desktop\Antra\HWProjectDemo\HWProject\obj\Debug\HWProject.pdb
