@@ -16,6 +16,28 @@ namespace Antra.CompanyApp.Data.Repository
             dbHelper = new DbHelper();
         }
 
+        public int Update(Employee item)
+        {
+
+            SqlConnection conn = new SqlConnection(DbHelper.ConnectionString);
+            conn.Open();
+
+            SqlCommand cmd = new SqlCommand();
+            cmd.CommandText = "spUpdateEmp";
+            cmd.Parameters.AddWithValue("@id", item.Id);
+            cmd.Parameters.AddWithValue("@name", item.EName);
+            cmd.Parameters.AddWithValue("@sal", item.Salary);
+            cmd.Parameters.AddWithValue("@did", item.DeptId);
+
+            cmd.CommandType = CommandType.StoredProcedure;
+
+            cmd.Connection = conn;
+
+            int result = cmd.ExecuteNonQuery();
+            conn.Close();
+            return result;
+        }
+
         public int Insert(Employee item)
         {
             SqlConnection conn = new SqlConnection(DbHelper.ConnectionString);
@@ -37,26 +59,7 @@ namespace Antra.CompanyApp.Data.Repository
             return result;
         }
 
-        public int Update(Employee item)
-        {
-            SqlConnection conn = new SqlConnection(DbHelper.ConnectionString);
-            conn.Open();
-
-            SqlCommand cmd = new SqlCommand();
-            cmd.CommandText = "spUpdateEmp";
-            cmd.Parameters.AddWithValue("@id", item.Id);
-            cmd.Parameters.AddWithValue("@name", item.EName);
-            cmd.Parameters.AddWithValue("@sal", item.Salary);
-            cmd.Parameters.AddWithValue("@did", item.DeptId);
-
-            cmd.CommandType = CommandType.StoredProcedure;
-
-            cmd.Connection = conn;
-
-            int result = cmd.ExecuteNonQuery();
-            conn.Close();
-            return result;
-        }
+       
 
         public int Delete(int id)
         {

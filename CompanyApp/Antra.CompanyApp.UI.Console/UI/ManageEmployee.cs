@@ -61,17 +61,27 @@ namespace Antra.CompanyApp.UI.ConsoleApp.UI
             Console.Write("Enter Department Id = ");
             e.DeptId = Convert.ToInt32(Console.ReadLine());
 
-            if (employeeService.AddEmployee(e) > 0)
+            if (employeeService.UpdateEmployee(e) > 0)
                 Console.WriteLine("Employee Updated");
             else
                 Console.WriteLine("Some Error has Occurred");
+        }
+
+        void PrintAll()
+        {
+            IEnumerable<Employee> employeeCollection  = employeeService.GetAll();
+            foreach (Employee item in employeeCollection)
+            {
+                Console.WriteLine(item.Id + " \t " + item.EName + " \t " + item.Salary + " \t " + item.DeptId);
+            }
         }
 
         public void Run()
         {
             //AddNewEmp();
             // DeleteExistingEmp();
-            UpdateEmp();
+           // UpdateEmp();
+            PrintAll();
         }
     }
 }

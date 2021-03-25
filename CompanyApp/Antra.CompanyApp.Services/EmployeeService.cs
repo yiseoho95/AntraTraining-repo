@@ -31,5 +31,14 @@ namespace Antra.CompanyApp.Services
             return empRepository.Update(item);
         }
 
+        public IEnumerable<Employee> GetAll()
+        {
+            return empRepository.GetAll();
+        }
+
+        public Employee GetById(int id)
+        {
+            return empRepository.GetById(id);
+        }
     }
 }
