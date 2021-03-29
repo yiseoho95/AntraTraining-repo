@@ -1,0 +1,15 @@
+C:\Users\Seoho\Desktop\Antra\MovieShop1\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+C:\Users\Seoho\Desktop\Antra\MovieShop1\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\Seoho\Desktop\Antra\MovieShop1\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\Seoho\Desktop\Antra\MovieShop1\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\Seoho\Desktop\Antra\MovieShop1\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seoho\Desktop\Antra\MovieShop1\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Seoho\Desktop\Antra\MovieShop1\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Seoho\Desktop\Antra\MovieShop1\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Seoho\Desktop\Antra\MovieShop1\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+C:\Users\Seoho\Desktop\Antra\MovieShop1\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\Seoho\Desktop\Antra\MovieShop1\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
+C:\Users\Seoho\Desktop\Antra\MovieShop1\Infrastructure\bin\Debug\net5.0\ApplicationCore.dll
+C:\Users\Seoho\Desktop\Antra\MovieShop1\Infrastructure\bin\Debug\net5.0\ApplicationCore.pdb
+C:\Users\Seoho\Desktop\Antra\MovieShop1\Infrastructure\obj\Debug\net5.0\Infrastructure.csprojAssemblyReference.cache
+C:\Users\Seoho\Desktop\Antra\MovieShop1\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete

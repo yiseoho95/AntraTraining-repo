@@ -1,0 +1,12 @@
+C:\Users\Seoho\Desktop\Antra\MovieShop1\ApplicationCore\bin\Debug\net5.0\ApplicationCore.deps.json
+C:\Users\Seoho\Desktop\Antra\MovieShop1\ApplicationCore\bin\Debug\net5.0\ApplicationCore.dll
+C:\Users\Seoho\Desktop\Antra\MovieShop1\ApplicationCore\bin\Debug\net5.0\ref\ApplicationCore.dll
+C:\Users\Seoho\Desktop\Antra\MovieShop1\ApplicationCore\bin\Debug\net5.0\ApplicationCore.pdb
+C:\Users\Seoho\Desktop\Antra\MovieShop1\ApplicationCore\obj\Debug\net5.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seoho\Desktop\Antra\MovieShop1\ApplicationCore\obj\Debug\net5.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Seoho\Desktop\Antra\MovieShop1\ApplicationCore\obj\Debug\net5.0\ApplicationCore.AssemblyInfo.cs
+C:\Users\Seoho\Desktop\Antra\MovieShop1\ApplicationCore\obj\Debug\net5.0\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Seoho\Desktop\Antra\MovieShop1\ApplicationCore\obj\Debug\net5.0\ApplicationCore.dll
+C:\Users\Seoho\Desktop\Antra\MovieShop1\ApplicationCore\obj\Debug\net5.0\ref\ApplicationCore.dll
+C:\Users\Seoho\Desktop\Antra\MovieShop1\ApplicationCore\obj\Debug\net5.0\ApplicationCore.pdb
+C:\Users\Seoho\Desktop\Antra\MovieShop1\ApplicationCore\obj\Debug\net5.0\ApplicationCore.csprojAssemblyReference.cache
