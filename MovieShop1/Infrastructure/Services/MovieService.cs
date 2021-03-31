@@ -5,10 +5,11 @@ using System.Text;
 using System.Threading.Tasks;
 using ApplicationCore.Models.Response;
 using ApplicationCore.Models.Request;
+using ApplicationCore.ServiceInterfaces;
 
-namespace Infrastructure.Services
+namespace Infrastructure.Services 
 {
-    public class MovieService
+    public class MovieService : IMovieService
     {
         public List<MovieCardResponseModel> Get30HighestGrossing()
         {
@@ -36,3 +37,5 @@ namespace Infrastructure.Services
         }
     }
 }
+
+

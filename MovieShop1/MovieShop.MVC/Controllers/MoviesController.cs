@@ -7,18 +7,16 @@ using ApplicationCore.Models.Response;
 using Infrastructure.Services;
 using Infrastructure.Repositories;
 using ApplicationCore.Models.Request;
+using ApplicationCore.ServiceInterfaces;
 
 namespace MovieShop.MVC.Controllers
 {
     public class MoviesController : Controller
     {
-        private MovieService _movieService;
-
-
-
-        public MoviesController()
+        private readonly IMovieService _movieService;
+        public MoviesController(IMovieService movieService)
         {
-            _movieService = new MovieService();
+            _movieService = movieService;
         }
         public IActionResult Index()
         {
@@ -28,8 +26,7 @@ namespace MovieShop.MVC.Controllers
             // Send List of top 30 Movies to the View
             // id, title, posterlUrl
 
-            ViewBag.PageTitle = "Top 30 Grossing Movies";
-
+            // ViewBag.PageTitle = "Top 30 Grossing Movies";
             var movies = _movieService.Get30HighestGrossing(); // => Database I/O 
 
             return View(movies);
